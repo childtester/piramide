@@ -1,0 +1,2 @@
+# piramide
+esercizio piramide
