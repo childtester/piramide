@@ -19,8 +19,8 @@ Va bene se hai blocchi rimanenti, purché tu costruisca una piramide completa.
 
 
 
-<details>
-       <summary>per la costruzione della piramide:</summary>
+
+
        ```
 public static int Piani( int mattoni )
        {
@@ -46,11 +46,8 @@ public static int Piani( int mattoni )
 
 
 ```
-</details>
 
-<details>
-       <summary>per il conteggio dei mattoni restanti:</summary>
-       ```
+```
         public static int Rimanenti( int mattoni )
         {
             int q = 1;
@@ -75,4 +72,3 @@ public static int Piani( int mattoni )
 
 ```
                            
-</details>
