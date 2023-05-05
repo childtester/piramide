@@ -69,4 +69,10 @@ public static int Piani( int mattoni )
 
 
 ```
+## Controllo del numero dei mattoni:
+```
+            if(mattoni<=0){
+                return 0;
+            }
+            ```
                            
