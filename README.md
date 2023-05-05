@@ -41,8 +41,6 @@ public static int Piani( int mattoni )
             
             return i;
         }
-
-
 ```
 ## Per il conteggio dei mattoni rimanenti:
 ```
@@ -64,15 +62,9 @@ public static int Piani( int mattoni )
             
             return mattoni;
         }
-
-    
-
-
 ```
 ## Controllo del numero dei mattoni:
 ```
             if(mattoni<=0){
                 return 0;
             }
-            
-                           
