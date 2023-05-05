@@ -18,7 +18,7 @@ Esempi:
 Va bene se hai blocchi rimanenti, purché tu costruisca una piramide completa.
 
 
-
+## per la costruzione della piramide:
 ```
 public static int Piani( int mattoni )
        {
@@ -43,8 +43,8 @@ public static int Piani( int mattoni )
         }
 
 
+```
 ## per i blocchi rimanenti:
-
 ```
         public static int Rimanenti( int mattoni )
         {
