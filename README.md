@@ -43,3 +43,26 @@ public static int Piani( int mattoni )
         }
 
 
+## per i blocchi rimanenti:
+
+```
+public static int Rimanenti( int mattoni )
+        {
+            int q = 1;
+            int i;
+            int risultato = 0;
+            if(mattoni<=0){
+                return 0;
+            }
+
+            for (i = 0; risultato < mattoni;i++){
+                risultato=q*q;
+                q += 2;
+                mattoni -= risultato;
+
+            }
+            
+            return mattoni;
+        }
+
+    }
