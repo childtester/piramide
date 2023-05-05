@@ -17,9 +17,7 @@ Esempi:
 
 Va bene se hai blocchi rimanenti, purché tu costruisca una piramide completa.
 
-
-
-
+## Per il calcolo dei piani:
 
 ```
 public static int Piani( int mattoni )
