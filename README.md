@@ -46,6 +46,7 @@ public static int Piani( int mattoni )
 
 
 ```
+                           
 </details>
 
 <details>
@@ -75,4 +76,5 @@ public static int Piani( int mattoni )
 
 
 ```
+                           
 </details>
