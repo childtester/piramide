@@ -48,10 +48,11 @@ public static int Piani( int mattoni )
 ```
 </details>
 
-## per i blocchi rimanenti:
-```
-        public static int Rimanenti( int mattoni )
-        {
+<details>
+       <summary>per il conteggio dei mattoni restanti:</summary>
+       ```
+public static int Piani( int mattoni )
+       {
             int q = 1;
             int i;
             int risultato = 0;
@@ -63,10 +64,15 @@ public static int Piani( int mattoni )
                 risultato=q*q;
                 q += 2;
                 mattoni -= risultato;
-
+            
+            }
+            if(mattoni<0){
+                return i-1;
             }
             
-            return mattoni;
+            return i;
         }
 
-    }
+
+```
+</details>
