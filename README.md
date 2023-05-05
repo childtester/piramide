@@ -46,7 +46,7 @@ public static int Piani( int mattoni )
 ## per i blocchi rimanenti:
 
 ```
-public static int Rimanenti( int mattoni )
+        public static int Rimanenti( int mattoni )
         {
             int q = 1;
             int i;
