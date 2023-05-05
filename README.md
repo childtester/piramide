@@ -46,7 +46,7 @@ public static int Piani( int mattoni )
 
 
 ```
-
+## Per il conteggio dei blocchi rimanenti:
 ```
         public static int Rimanenti( int mattoni )
         {
