@@ -1,5 +1,7 @@
 #piramide
+
 ##esercizio piramide
+
 ###Quando si avvia un progetto come la costruzione di una piramide, è meglio pensarci due volte.
 Questo programma calcola l'altezza massima di una piramide (in piani) dato un certo numero di cubi di pietra.
 Ipotizzando che:
