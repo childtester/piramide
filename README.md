@@ -21,7 +21,7 @@ Va bene se hai blocchi rimanenti, purché tu costruisca una piramide completa.
 
 
 
-       ```
+```
 public static int Piani( int mattoni )
        {
             int q = 1;
